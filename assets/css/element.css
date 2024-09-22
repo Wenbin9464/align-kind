@@ -1,0 +1,39 @@
+body{
+    background-color: azure;
+    text-align: center;
+}
+section{
+    width: 80vw;
+    text-align: center;
+    margin: 0 auto;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+}
+h2 {
+    text-transform: capitalize;
+}
+p {
+    background-color: beige;
+    padding: 50px;
+}
+#mostra{
+    background-color: azure;
+}
+.section{
+    background-color: azure;
+    padding: 40px;
+    border: 1px solid black;
+}
+.div{
+    background-color: rgb(231, 231, 211);
+    padding: 40px;
+    border: 1px solid black;
+}
+.p{
+    background-color: beige;
+    padding: 30px;
+    border: 1px solid black;
+}

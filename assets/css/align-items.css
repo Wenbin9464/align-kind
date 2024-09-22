@@ -1,0 +1,32 @@
+.items-flex-start{
+    align-items: flex-start;
+}
+.items-flex-end{
+    align-items: flex-end;
+}
+.items-center{
+    align-items: center;
+}
+.items-stretch{
+    align-items: stretch;
+}
+.items-baseline{
+    align-items: baseline;
+}
+.align-items{
+    display: flex;
+    margin: 0 auto;
+    width: 700px;
+    height: 300px;
+    background-color: rgb(231, 231, 211);
+}
+
+.exm-bl1{
+    padding: 40px;
+}
+.exm-bl2{
+    padding: 60px;
+}
+.exm-bl3{
+    padding: 80px;
+}

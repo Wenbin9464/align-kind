@@ -1,0 +1,22 @@
+.just-flex-start {
+    justify-content: flex-start;
+}
+.just-flex-end {
+    justify-content: flex-end;
+}
+.just-center{
+    justify-content: center;
+}
+.just-space-between{
+    justify-content: space-between;
+}
+.just-space-around{
+    justify-content: space-around;
+}
+.just-space-evenly{
+    justify-content: space-evenly;
+}
+.just{
+    display: flex;
+    background-color: rgb(231, 231, 211);
+}
